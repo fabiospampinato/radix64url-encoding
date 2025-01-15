@@ -5,7 +5,7 @@ Radix64url encoding, a.k.a. Base64url encoding. An extremely fast and synchronou
 ## Install
 
 ```sh
-npm install --save radix64url-encoding
+npm install radix64url-encoding
 ```
 
 ## Usage
