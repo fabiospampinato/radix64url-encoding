@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/radix64url-encoding",
   "description": "Radix64url encoding, a.k.a. Base64url encoding. An extremely fast and synchronous JS implementation.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/node.js",
   "types": "./dist/node.d.ts",
